@@ -11,7 +11,7 @@ while True:
   op = input("Seleccione opción: ")
   if op == "0":
     print("Programa finalizado.")
-  break
+    break
   elif op == "1":
     datos_Sofia()
   elif op == "2":
