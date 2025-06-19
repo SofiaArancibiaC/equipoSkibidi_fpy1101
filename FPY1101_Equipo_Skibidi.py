@@ -1,6 +1,6 @@
 def datos_Sofia()
   print("Mi nombre es Sofía Arancibia y tengo 22 años")
-
+  
 # Menú base del programa
 while True:
   print("\n--- MENÚ PRINCIPAL ---")
