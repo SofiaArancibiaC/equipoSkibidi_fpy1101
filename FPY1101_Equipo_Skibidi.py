@@ -8,7 +8,7 @@ while True:
   op = input("Seleccione opción: ")
   if op == "0":
     print("Programa finalizado.")
-  break
+    break
   elif op == "1":
     pass # Aquí se llamará a la función del integrante 1
   elif op == "2":
