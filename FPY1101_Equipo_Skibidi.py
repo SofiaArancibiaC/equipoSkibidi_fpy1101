@@ -14,6 +14,9 @@ while True:
   elif op == "2":
     pass # Aquí se llamará a la función del integrante 2
   elif op == "3":
-    pass # Aquí se llamará a la función del integrante 3
+    datos_javier()
   else:
     print(" Opción inválida.")
+
+def datos_javier():
+  print("Mi nombre es Javier Bravo, y tengo 21 años.")
