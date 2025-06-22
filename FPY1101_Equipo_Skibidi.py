@@ -1,4 +1,4 @@
-def datos_Sofia()
+def datos_sofia()
   print("Mi nombre es Sofía Arancibia y tengo 22 años")
   
 # Menú base del programa
@@ -13,7 +13,7 @@ while True:
     print("Programa finalizado.")
     break
   elif op == "1":
-    datos_Sofia()
+    datos_sofia()
   elif op == "2":
     pass # Aquí se llamará a la función del integrante 2
   elif op == "3":
