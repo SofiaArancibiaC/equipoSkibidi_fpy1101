@@ -1,4 +1,4 @@
-def datos_sofia()
+def datos_sofia():
   print("Mi nombre es Sofía Arancibia y tengo 22 años")
   
 def datos_alan():
